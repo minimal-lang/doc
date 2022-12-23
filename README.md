@@ -9,7 +9,8 @@
 • Implicit is better than explicit;  
 • Don’t repeat your self;  
 • Make your way;  
-• Too simple means too complex.
+• Too simple means too complex.  
+• Less code, do more.
 
 ## Lang docs
 [File extensions](./file-extensions.md)  
@@ -21,4 +22,3 @@
 [Import / Export](./import-export.md)  
 [Functions](./functions.md)  
 [Operators](./operators.md)
-
