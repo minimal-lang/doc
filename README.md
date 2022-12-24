@@ -9,7 +9,7 @@
 • Implicit is better than explicit;  
 • Don’t repeat your self;  
 • Make your way;  
-• Too simple means too complex.  
+• Too simple means too complex;  
 • Less code, do more.
 
 ## Lang docs
