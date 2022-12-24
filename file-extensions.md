@@ -1,5 +1,4 @@
 <div align='center'>
 
-• `.m` is for codes;  
-• `.mnl` is only for definitions.
-
+• `.mn` is for codes;  
+• `.mnh` is only for definitions. (Like a Header File)
