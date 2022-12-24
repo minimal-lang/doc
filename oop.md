@@ -18,7 +18,7 @@
 
 Normal functions with privacy level.
 
-• Modifiers:
+• Modifiers: <br />
     • `static` Makes you be able to call this method without instance the class.  
 • Use the keyword `ctx` to access the class reference (pointer / context).
 
