@@ -22,3 +22,4 @@
 [Import / Export](./import-export.md)  
 [Functions](./functions.md)  
 [Operators](./operators.md)
+[Compiling](./compile.md)
