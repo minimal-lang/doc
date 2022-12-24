@@ -1,6 +1,6 @@
 <div align='center'>
 
-<img src='images/Name-Thumb.png' height='182px'/>
+<img src='_images/Name-Thumb.png' height='182px'/>
 
 𝙰 𝚗𝚎𝚠 𝚙𝚛𝚘𝚐𝚛𝚊𝚖𝚖𝚒𝚗𝚐 𝚕𝚊𝚗𝚐𝚞𝚊𝚐𝚎! :𝙳
 
