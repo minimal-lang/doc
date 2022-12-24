@@ -17,10 +17,5 @@ There’s already some default libraries that you can use:
 • `std.mnl` has some statements.
 
 ## Export
-<div align='left'>
 
-  ```
-    export <thing>
-  ```
-</div>
-
+`public` fields are automatically exported and can be accessed from other files.
