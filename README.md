@@ -10,7 +10,7 @@
 • Don’t repeat your self;  
 • Make your way;  
 • Too simple means too complex;  
-• Less code, do more;
+• Less code, do more; <br>
 • Old problems, modern solutions.
 
 ## Lang docs
