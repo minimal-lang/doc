@@ -10,7 +10,8 @@
 • Don’t repeat your self;  
 • Make your way;  
 • Too simple means too complex;  
-• Less code, do more.
+• Less code, do more;
+• Old problems, modern solutions.
 
 ## Lang docs
 [File extensions](./file-extensions.md)  
