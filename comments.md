@@ -13,6 +13,6 @@ To specify a multiline comment, three semicolons `;;;` are used.
 ```
 ;;;
 Multiline comment.
-Add you method/class definitions here...
+Add your functions/classes definitions here...
 ;;;
 ```
