@@ -1,18 +1,20 @@
-<div align='center'>
+## Attributes
 
-### Attributes
+- The privacy levels are `private`, `protected` or `public`;
+- If you omit the privacy level, in `struct`s it will be `public`, and in `class`es it will be `private`;
+- You can assign a default value (If you do it you don’t need to say its type; the compiler will automatically infer it).
 
-• The privacy levels are `private`, `protected` or `public`;  
-• If you omit the privacy level, it will be `public`;  
-• You can assign a default value (If you do it you don’t need to say its type).
-
-<div align='left'>
-
-  ```
-    <?privacy level> <?type> <name> = <expr>
-    <?privacy level> <?type> <name>
-  ```
-</div>
+ ```
+ <?privacy level> <?type> <name> = <?expr>
+ <?privacy level> <?type> <name>
+ ```
+ 
+ Ex.:
+ ```
+ n i32 = 0
+ x i64
+ y = 45
+ ```
 
 ### Methods
 
