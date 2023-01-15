@@ -1,11 +1,18 @@
-<div align='center'>
+## Comments
 
 ### Inline
 
-<div align='left'>
+To specify a inline comment, a semicolon `;` is used.
+```
+; Inline comment.
+```
 
-  ```
-    ; Some inline comment for example...
-  ```
-</div>
+### Multiline
 
+To specify a multiline comment, three semicolons `;;;` are used.
+```
+;;;
+Multiline comment.
+Add you method/class definitions here...
+;;;
+```
